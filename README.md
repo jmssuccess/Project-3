@@ -69,6 +69,6 @@ Make the x-axis represent the year and the y-axis represent the housing_units.
 
 <H4>References:
   <li>https://www.w3schools.com/python/pandas/pandas_csv.asp</li>
-<li>https://www.kaggle.com/code/jamesbennettjr/customers-clustering-k-means-dbscan-and-ap/edit</li>
+
 <li> (DRAWDOWNS Section)(https://www.quantrocket.com/codeload/quant-finance-lectures/quant_finance_lectures/Lecture33-Portfolio-Analysis-with-pyfolio.ipynb.html) </li>
   
