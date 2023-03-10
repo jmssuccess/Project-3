@@ -8,7 +8,6 @@ The purpose of today's project is to use data visualization skills, including ag
 <H1> MODULES USED</H1>
 <li>import pandas as pd</li>
 <li>import hvplot.pandas</li>
-<li>import geoviews.pandas</li>
 <li>from pathlib import Path</li>
 <li>from sklearn.cluster import KMeans</li>
 <li>sklearn.preprocessing import StandardScaler</li>
