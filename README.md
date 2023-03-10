@@ -1,9 +1,7 @@
 # Project-3
 
-# UNSUPERVISED LEARNING Class-Project-2
-This project focuses on Unsupervised Learning
 
-<H1> PURPOSE</H1>
+<H1> Interactive Visualization</H1>
 
 The purpose of today's project is to use data visualization skills, including aggregation, interactive visualizations, and geospatial analysis, to find properties in the New Jersey market that are viable investment opportunities.
 
